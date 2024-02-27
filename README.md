@@ -30,5 +30,5 @@ And the output is also sent to the terminal:
 
 ## References
 [Get started with the Dev Board | Coral](https://coral.ai/docs/dev-board/get-started)
-[Real-time Human Pose Estimation in the Browser with TensorFlow.js] (https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
+[Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 [PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model](https://arxiv.org/abs/1803.08225)
