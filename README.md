@@ -1,14 +1,6 @@
-# Coral PoseNet
-test
-Pose estimation refers to computer vision techniques that detect human figures
-in images and video, so that one could determine, for example, where someone’s
-elbow, shoulder or foot show up in an image. PoseNet does not recognize
-who is in an image, it is simply estimating where key body joints are.
-
-This repo contains a set of PoseNet models that are quantized and optimized for
-use on Coral's Edge TPU, together with some example code to shows how to run it
-on a camera stream.
-
+# Introduction
+Shadowboxing is a common tactic used in combat sports, especially boxing. This entails playing out a fight against an imaginary opponent, who is frequently represented by a shadow (thus the English word "shadow"). In shadowboxing, the practitioner moves, strikes, and defends in a manner similar to that of an actual fight—just without a real partner in front of them. This project aims to develop a working prototype of an embedded system that can recognize boxing motions while a practitioner is shadowboxing. This project focuses on the jab, cross, and uppercut movements.
+![plot](./man-doing-boxing-moves-exercise-jab-cross-hook-and-uppercut-movement-shadow-boxing-flat-illustration-vector.jpg)
 ## Why PoseNet ?
 
 Pose estimation has many uses, from [interactive](https://vimeo.com/128375543)
