@@ -336,7 +336,7 @@ def run_pipeline(inf_callback, render_callback, src_size,
     elif jpeg:
         SRC_CAPS = 'image/jpeg,width={width},height={height},framerate=30/1'
     else:
-        SRC_CAPS = 'video/x-raw,width={width},height={height},framerate=30/1'
+        SRC_CAPS = 'video/x-raw,width={width},height={height},framerate=20/1'
     PIPELINE = 'v4l2src device=%s ! {src_caps}' % videosrc
 
     scale = min(inference_size[0] / src_size[0],
